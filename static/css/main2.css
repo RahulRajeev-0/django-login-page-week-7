@@ -1,0 +1,11 @@
+body{
+    background-image: url(../images/san1.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+
+}
+p{
+    padding-top: 10px;
+    color: white;
+}
